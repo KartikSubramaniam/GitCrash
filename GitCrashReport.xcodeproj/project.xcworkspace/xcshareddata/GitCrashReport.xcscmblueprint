@@ -1,0 +1,32 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7EA45F1777A09A14B2E25EAF3F7FBAB652A7E260",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "befa5433-5ad5-45ad-a214-0c4f110ad926++485" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "befa5433-5ad5-45ad-a214-0c4f110ad926++485" : 0,
+    "7EA45F1777A09A14B2E25EAF3F7FBAB652A7E260" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "AE6D16C7-7308-4796-8FD0-59EA02CB3C14",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "befa5433-5ad5-45ad-a214-0c4f110ad926++485" : "..\/..\/Desktop\/test\/trunk",
+    "7EA45F1777A09A14B2E25EAF3F7FBAB652A7E260" : "GitCrashReport\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "GitCrashReport",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "GitCrashReport.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/KartikSubramaniam\/GitCrash.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7EA45F1777A09A14B2E25EAF3F7FBAB652A7E260"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "http:\/\/svn\/svn\/CSIG",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "befa5433-5ad5-45ad-a214-0c4f110ad926++485"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="10171" systemVersion="15E65" minimumToolsVersion="Automatic">
+    <entity name="Detail" representedClassName="Detail" syncable="YES">
+        <attribute name="commentsBody" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="crashId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updatedTimeStamp" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="userId" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Report" representedClassName=".Report" syncable="YES">
+        <attribute name="body" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="commentsLink" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="crashId" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="title" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="updatedTimeStamp" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Task" representedClassName="Task" syncable="YES">
+        <attribute name="lastUpdated" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Detail" positionX="-54" positionY="27" width="128" height="105"/>
+        <element name="Report" positionX="-63" positionY="-18" width="128" height="120"/>
+        <element name="Task" positionX="-54" positionY="36" width="128" height="60"/>
+    </elements>
+</model>
